@@ -22,7 +22,8 @@ In this challenge we are given starter code and asked to complete it and make it
 
 This is the new and improved home page
 
-    ```md![Horiseon](https://github.com/Gonzo7725/Challenge1-Code-Refactoring/blob/main/assets/images/Screenshot%202023-12-18%20175011.png)```
+<img src="./assets/images/challenge5.png">
+
 
 Direct link to website
 
