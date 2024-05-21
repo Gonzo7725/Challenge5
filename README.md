@@ -27,7 +27,8 @@ This is the new and improved home page
 
 Direct link to website
 
-    file:///C:/Users/13059/Desktop/bootcamp/challenges/Challenge1-Code-Refactoring/index.html
+    https://gonzo7725.github.io/Challenge5-Day-Planner/
+    
 
 ## Credits
 
